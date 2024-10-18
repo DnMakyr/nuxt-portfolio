@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   // future: {
   //   compatibilityVersion: 4,
   // },
-  modules: ['@nuxt/content'],
+  modules: ['@nuxt/content', '@nuxtjs/tailwindcss'],
   content: {
     sources:{
       content:{
